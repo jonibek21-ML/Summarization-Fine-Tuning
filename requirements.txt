@@ -1,0 +1,8 @@
+torch
+transformers
+python
+google.colab
+numpy
+tarfile
+datasets
+evaluate
